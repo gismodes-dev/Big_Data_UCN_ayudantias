@@ -1,2 +1,3 @@
 # Big-Data-Colab-UCN-
-Repo de Ayudantías Big Data
+Repositorio de Colab de Explicaciones de las guías y de Ayudantías para la asignatuda Big Data para la toma de decisiones
+
